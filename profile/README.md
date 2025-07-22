@@ -67,8 +67,8 @@ Quer transformar sua ideia em realidade?
 Entre em contato e vamos criar juntos a próxima solução de sucesso!
 
 - 🌐 Site: [acioliconsultoria.com](https://acioliconsultoria.com)
-- 📧 E-mail: contato@acioliconsultoria.com.br
-- 📱 WhatsApp: (xx) xxxxx-xxxx
+- 📧 E-mail: acioliconsultoria@outlook.pt
+- 📱 WhatsApp: +351 21 920 1141
 
 ---
 

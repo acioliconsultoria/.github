@@ -1,86 +1,70 @@
-# 🚀 Acíoli Consultoria – Soluções em Software com Energia e Inovação! 🚀
+# 🚀 Acíoli Consultoria – Soluções em Software sob medida! 🚀
 
-Bem-vindo ao nosso universo de desenvolvimento de softwares, onde **inovação**, **agilidade** e **paixão** por tecnologia transformam ideias em soluções extraordinárias! Aqui, cada linha de código é feita com entusiasmo, pensando sempre no sucesso dos nossos clientes.
+Aqui desenvolvemos software com foco em **inovação**, **eficiência** e **qualidade**.  
+Cada projeto é pensado de forma personalizada para responder às necessidades dos nossos clientes, garantindo resultados sólidos e sustentáveis.  
 
 ---
 
 ## 🎉 Quem Somos?
 
-Somos uma equipe apaixonada por desafios e movida por resultados. Desenvolvemos sistemas sob medida, sites, CRMs, integrações inteligentes e soluções digitais para empresas que querem acelerar seu crescimento.
+Somos uma equipa apaixonada por desafios e movida por resultados. Desenvolvemos **landing pages**, **sistemas à medida**, **CRMs**, integrações inteligentes e soluções digitais para empresas que pretendem acelerar o crescimento.  
 
-> **Nossa missão:** Tornar a tecnologia seu maior aliado!
+> **A nossa missão:** Tornar a tecnologia o seu maior aliado!  
 
 ---
 
 ## 💻 Tecnologias & Linguagens
 
-Trabalhamos com as principais tecnologias do mercado para entregar sempre o melhor resultado!
+Trabalhamos com as principais tecnologias do mercado para garantir qualidade e escalabilidade:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38" height="38" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" height="38" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="38" height="38" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter"/>
 </p>
 
 ---
 
-## 💡 O que criamos?
+## 💡 O que Desenvolvemos?
 
-Confira alguns dos nossos projetos e soluções (clique para ver mais detalhes!):
+Já entregámos **diversas landing pages** personalizadas para clientes de sectores variados, todas com foco em **SEO, responsividade e conversão**.  
 
-- 🌐 [artur-costa-page_v.10](https://github.com/acioliconsultoria/artur-costa-page_v.10) – Website moderno para contadores.
-- 📈 [gestoffice-crm](https://github.com/acioliconsultoria/gestoffice-crm) – CRM completo para gestão de clientes e vendas.
-- ⏰ [HRTimeTrak](https://github.com/acioliconsultoria/HRTimeTrak) – Controle de ponto para equipes ágeis.
-- 🗃️ [stock-savvy-shelf-flow](https://github.com/acioliconsultoria/stock-savvy-shelf-flow) – Gestão de estoque inteligente.
-- 🏢 [organi-gest-2](https://github.com/acioliconsultoria/organi-gest-2) – Organização e produtividade para empresas.
-- 🎨 [portfolio-acioli](https://github.com/acioligeorge/portfolio-acioli) – Nosso portfólio criativo!
-- 💻 [nexus](https://github.com/acioliconsultoria/nexus) – Plataforma de conexão e colaboração.
-- 👩‍💼 [crm-acioliconsultoria](https://github.com/acioligeorge/crm-acioliconsultoria) – CRM personalizado para consultorias.
-- 🏥 [agendamento-clinico-hw](https://github.com/acioligeorge/agendamento-clinico-hw) – Plataforma para agendamento em clínicas.
+Além disso, contamos com **3 projectos robustos** que mostram a capacidade do nosso stack:
 
-E MUITO MAIS! Veja todos os projetos em: [Nossos Repositórios](https://github.com/acioliconsultoria?tab=repositories)
+- 🏢 **Organigest** – Plataforma de organização e produtividade para empresas.  
+- ✅ **NexTask** – Sistema ágil de gestão de tarefas e equipas.  
+- ⏰ **HR-TimeTrak** – Ferramenta de registo de ponto e gestão de horários.  
+
+🔧 **Stack usado nestes projectos:**  
+React + API REST • Full Redux • Tailwind CSS • PostgreSQL • Express • Supabase • Autenticação JWT  
 
 ---
 
-## ✨ Diferenciais Acíoli Consultoria
+## ✨ Diferenciais da Acíoli Consultoria
 
-- Equipe multidisciplinar e apaixonada por tecnologia 🤓
-- Desenvolvimento ágil, do protótipo à entrega final ⚡
-- Foco total na experiência do usuário 🏆
-- Suporte dedicado e consultoria estratégica 🤝
-
----
-
-## 💬 Fale com a gente!
-
-Quer transformar sua ideia em realidade?  
-Entre em contato e vamos criar juntos a próxima solução de sucesso!
-
-- 🌐 Site: [acioliconsultoria.com](https://acioliconsultoria.com)
-- 📧 E-mail: acioliconsultoria@outlook.pt
-- 📱 WhatsApp: +351 21 920 1141
+- Equipa multidisciplinar e orientada a resultados.  
+- Desenvolvimento ágil, do protótipo à entrega.  
+- Foco na experiência do utilizador e performance.  
+- Suporte e consultoria técnica contínuos.  
 
 ---
 
-## ⭐ Bora codar juntos?  
-Se gostou dos nossos projetos, deixe seu ⭐ e contribua com sugestões!
+## 💬 Fale Connosco!
+
+Quer transformar a sua ideia em realidade?  
+Contacte-nos e vamos criar juntos a próxima solução de sucesso!
+
+- 🌐 Site: [acioliconsultoria.com](https://acioliconsultoria.com)  
+- 📧 E-mail: acioliconsultoria@outlook.pt  
+- 📱 WhatsApp: +351 21 920 1141  
 
 ---
 
-> _“Tecnologia é melhor quando reúne pessoas para resolver problemas reais.”_
-
----
-
-> _Observação:_  
-> Esta lista de projetos pode estar incompleta. Para ver todos, acesse diretamente:  
-> [https://github.com/acioliconsultoria?tab=repositories](https://github.com/acioliconsultoria?tab=repositories)
+> _“A melhor forma de prever o futuro é inventá-lo.”_ — **Alan Kay**

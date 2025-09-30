@@ -1,4 +1,4 @@
-# 🚀 Acíoli Consultoria – Soluções em Software sob medida! 🚀
+# 🚀 Acioli Consultoria – Soluções em Software sob medida! 🚀
 
 Aqui desenvolvemos software com foco em **inovação**, **eficiência** e **qualidade**.  
 Cada projeto é pensado de forma personalizada para responder às necessidades dos nossos clientes, garantindo resultados sólidos e sustentáveis.  
@@ -47,7 +47,7 @@ React + API REST • Full Redux • Tailwind CSS • PostgreSQL • Express • 
 
 ---
 
-## ✨ Diferenciais da Acíoli Consultoria
+## ✨ Diferenciais da Acioli Consultoria
 
 - Equipa multidisciplinar e orientada a resultados.  
 - Desenvolvimento ágil, do protótipo à entrega.  
